@@ -1,0 +1,2 @@
+
+# print(type(inp2))

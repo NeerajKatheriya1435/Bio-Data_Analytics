@@ -69,9 +69,9 @@
 # print(6+8)
 # print("Shubham","Aman")
 
-FisrtName=input("Enter Your FisrtName: ")
-LastName=input("Enter Your LastName: ")
+# FisrtName=input("Enter Your FisrtName: ")
+# LastName=input("Enter Your LastName: ")
 
-print("My name is",FisrtName,LastName)
+# print("My name is",FisrtName,LastName)
 
 

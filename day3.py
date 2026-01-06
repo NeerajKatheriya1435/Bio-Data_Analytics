@@ -44,15 +44,15 @@ num1=6
 
 # comparision operators
 
-a1=8
+# a1=8
 # b1=5
-b1=8
+# b1=8
 
-print(a1>b1)  # T
-print(a1>=b1) # T
-print(a1<b1)  # F
-print(a1<=b1) # F
-print(a1==b1) # F
-print(a1!=b1) # T
+# print(a1>b1)  # T
+# print(a1>=b1) # T
+# print(a1<b1)  # F
+# print(a1<=b1) # F
+# print(a1==b1) # F
+# print(a1!=b1) # T
 
 # 

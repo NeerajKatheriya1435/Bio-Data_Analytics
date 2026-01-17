@@ -1,80 +1,10 @@
 
-Introduction to Data Analytics
-What is Data Analytics?
-Data Analyst role & responsibilities
-Types of Analytics
-Descriptive, Diagnostic, Predictive, Prescriptive
-
-Descriptive Statistics
-Mean, Median, Mode, Range, Variance, Standard Deviation
-Quartiles & Percentiles, Probability
-Basic probability concepts
-Conditional probability
-Microsoft Excel for Data Analysis
-Excel Basics, Excel interface
-Rows, Columns, Cells, Data types, Excel Functions
-Mathematical functions (SUM, AVERAGE, COUNT)
-Logical functions (IF, AND, OR)
-Text functions (LEFT, RIGHT, MID, LEN)
-Date & Time functions
-Lookup functions, VLOOKUP, HLOOKUP, XLOOKUP
-INDEX & MATCH, Data Handling
-Sorting & Filtering, Conditional Formatting
-Remove duplicates, Data Validation
-Advanced Excel, Pivot Tables, Pivot Charts
-What-If Analysis, Excel Dashboards
-Power Query (basic intro)
-Excel automation basics
-SQL for Data Analysis, SQL Basics
-What is a database?, Relational databases
-Tables & keys, SQL Commands
-SELECT, INSERT, UPDATE, DELETE
-WHERE, DISTINCT, ORDER BY, GROUP BY, HAVING
-Joins, INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
-Advanced SQL, Subqueries, Views, Indexes
-Python for Data Analysis
-Python Basics, Variables & Data Types
-Lists, Tuples, Sets, Dictionaries
-Conditional Statements, Loops
-Functions, File handling
-Python Libraries, NumPy, Arrays
-Indexing & slicing, Broadcasting
-Pandas, Series & DataFrames, Data cleaning
-Merge, Join, Concatenate, GroupBy operations
-Matplotlib, Line, Bar, Pie, Scatter plots
-Seaborn, Heatmaps, Box plots, Statistical plots
-Data Cleaning & Preprocessing
-Missing values handling, Outlier detection
-Data normalization, Data transformation
-Handling duplicate & noisy data
-Exploratory Data Analysis (EDA)
-Understanding dataset
-Univariate analysis,Bivariate analysis
-Pattern detection,Trend analysis, Insight generation
-Power BI (BUSINESS INTELLIGENCE – MUST)
-Power BI Basics, What is Power BI?
-Power BI Desktop vs Service, Data sources
-Data Modeling, Relationships
-Star & Snowflake schema, Calculated columns
-DAX (VERY IMPORTANT), Basic DAX formulas
-Calculated Measures, Time intelligence functions
-KPIs using DAX, Visualization, Charts & visuals
-Slicers & filters, Drill-down & drill-through
-Interactive dashboards, Power BI Projects
-Sales dashboard, Finance dashboard
-HR analytics dashboard
-Business & Domain Knowledge
-Sales analytics,Marketing analytics
-Finance analytics, HR analytics
-Operations analytics
-Reporting & Data Storytelling
-Data interpretation, Business reporting
-Presentation skills
-Projects (MOST IMPORTANT)
-Mandatory Projects
-Excel sales analysis project
-SQL business queries project
-Power BI dashboard project
-Real-World Case Studies
-Data Analyst interview questions
-SQL & Excel interview problems
+Basics of Matplotlib
+Introduction to data visualization
+pyplot module,Creating simple plots
+Common Plots,Line plot
+Bar chart,Histogram,Scatter plot
+Pie chart,Plot Customization
+Titles & labels,Legends,Grid
+Figure size,Multiple Plots
+Subplots,Styling plots

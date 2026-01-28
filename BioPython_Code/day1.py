@@ -19,21 +19,22 @@
 # print("Translation (RNA to Protein):", d2.translate(d2))
 # print(type(d1))
 
-seq="""
+# seq="""
 
->Sequence_1 This is Human Fasta File DNA Structure
-ATGCGTACGTTAG
+# >Sequence_1 This is Human Fasta File DNA Structure
+# ATGCGTACGTTAG
 
->Sequence_2 This is not Human Fasta File DNA Structure
-CGTAGCTAGCTA
+# >Sequence_2 This is not Human Fasta File DNA Structure
+# CGTAGCTAGCTA
 
-"""
+# """
 
 # f1=open("FastaFile1.fasta","w")
 # f1.write(seq)
+
 from Bio import SeqIO
 
-for record in SeqIO.parse("FastaFile1.fasta","fasta-pearson"):
+for record in SeqIO.parse("fasta2.fasta","fasta-pearson"):
     print("Fasta ID of Fisrt: ",record.id)
     print("Fasta description of Fisrt: ",record.description)
     print("Fasta seq of Fisrt: ",record.seq)

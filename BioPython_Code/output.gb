@@ -1,0 +1,12 @@
+LOCUS       ExampleSequence           16 bp    DNA     linear   BCT 26-JAN-2026
+DEFINITION  This is a sample DNA sequence for GenBank file.
+ACCESSION   SEQ001
+VERSION     SEQ001
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Homo sapiens
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 attgcttgct tatagc
+//

@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7699253</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>46</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7699253</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>46</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2936000656|emb|OZ243925.1|</Hit_id>
+  <Hit_def>MAG: Phototrophicaceae bacterium isolate ee4a4175-e3a0-486e-9b26-e9a0992960d0 genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OZ243925</Hit_accession>
+  <Hit_len>3662228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.8621</Hsp_bit-score>
+      <Hsp_score>45</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>30</Hsp_query-to>
+      <Hsp_hit-from>291548</Hsp_hit-from>
+      <Hsp_hit-to>291577</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>30</Hsp_align-len>
+      <Hsp_qseq>TCCATGAAAGCCAACAAATCCGCCTGGTGC</Hsp_qseq>
+      <Hsp_hseq>TCCATGAAAGCCAGCAACTCCGCCGGGTGC</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||| |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|3035042464|emb|OZ291537.1|</Hit_id>
+  <Hit_def>Alces alces genome assembly, chromosome: 24</Hit_def>
+  <Hit_accession>OZ291537</Hit_accession>
+  <Hit_len>60017000</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>34</Hsp_query-to>
+      <Hsp_hit-from>21681250</Hsp_hit-from>
+      <Hsp_hit-to>21681219</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CATGAAAGCCAACAAATCCGCCTGGTGCTTTC</Hsp_qseq>
+      <Hsp_hseq>CATGAAGACCAACAAATCCGACTTGTGCTTTC</Hsp_hseq>
+      <Hsp_midline>||||||  |||||||||||| || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2867914379|ref|XM_070208681.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X16, mRNA</Hit_def>
+  <Hit_accession>XM_070208681</Hit_accession>
+  <Hit_len>7327</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5474</Hsp_hit-from>
+      <Hsp_hit-to>5448</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2867914375|ref|XM_070208679.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X14, mRNA</Hit_def>
+  <Hit_accession>XM_070208679</Hit_accession>
+  <Hit_len>6623</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>4668</Hsp_hit-from>
+      <Hsp_hit-to>4642</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1732848783|ref|XM_030716625.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila novamexicana arginine-glutamic acid dipeptide repeats protein (LOC115771073), mRNA</Hit_def>
+  <Hit_accession>XM_030716625</Hit_accession>
+  <Hit_len>7478</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5109</Hsp_hit-from>
+      <Hsp_hit-to>5083</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2867914389|ref|XM_070208686.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X21, mRNA</Hit_def>
+  <Hit_accession>XM_070208686</Hit_accession>
+  <Hit_len>7291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2867914351|ref|XM_070208667.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_070208667</Hit_accession>
+  <Hit_len>7465</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5510</Hsp_hit-from>
+      <Hsp_hit-to>5484</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2867914361|ref|XM_070208672.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_070208672</Hit_accession>
+  <Hit_len>7421</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|390522770|gb|CP003348.1|</Hit_id>
+  <Hit_def>Desulfitobacterium dehalogenans ATCC 51507, complete genome</Hit_def>
+  <Hit_accession>CP003348</Hit_accession>
+  <Hit_len>4321753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>33</Hsp_query-to>
+      <Hsp_hit-from>1196353</Hsp_hit-from>
+      <Hsp_hit-to>1196332</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>CAACAAATCCGCCTGGTGCTTT</Hsp_qseq>
+      <Hsp_hseq>CAACAAATCCGCCTGGTGCTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|2867914359|ref|XM_070208671.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_070208671</Hit_accession>
+  <Hit_len>7427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|3035083063|emb|OZ291593.1|</Hit_id>
+  <Hit_def>Rangifer tarandus genome assembly, chromosome: 23</Hit_def>
+  <Hit_accession>OZ291593</Hit_accession>
+  <Hit_len>59964588</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>34</Hsp_query-to>
+      <Hsp_hit-from>38348123</Hsp_hit-from>
+      <Hsp_hit-to>38348154</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CATGAAAGCCAACAAATCCGCCTGGTGCTTTC</Hsp_qseq>
+      <Hsp_hseq>CATGAAGACCAACAAATCCGACTTGTGCTTTC</Hsp_hseq>
+      <Hsp_midline>||||||  |||||||||||| || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|2867914369|ref|XM_070208676.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X11, mRNA</Hit_def>
+  <Hit_accession>XM_070208676</Hit_accession>
+  <Hit_len>7391</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|2867914349|ref|XM_070208666.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_070208666</Hit_accession>
+  <Hit_len>7430</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|3139207793|emb|OZ389339.1|</Hit_id>
+  <Hit_def>Ctenoides mitis genome assembly, chromosome: 9</Hit_def>
+  <Hit_accession>OZ389339</Hit_accession>
+  <Hit_len>77752964</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>35</Hsp_query-to>
+      <Hsp_hit-from>59026880</Hsp_hit-from>
+      <Hsp_hit-to>59026854</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AGCCAACAAATCCGCCTGGTGCTTTCA</Hsp_qseq>
+      <Hsp_hseq>AGCCAACAAATATGCCTGGTGCTTTCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|2867914387|ref|XM_070208685.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X20, mRNA</Hit_def>
+  <Hit_accession>XM_070208685</Hit_accession>
+  <Hit_len>7351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2724579525|ref|XM_064768415.1|</Hit_id>
+  <Hit_def>PREDICTED: Lineus longissimus uncharacterized LOC135485977 (LOC135485977), mRNA</Hit_def>
+  <Hit_accession>XM_064768415</Hit_accession>
+  <Hit_len>3811</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>37</Hsp_query-to>
+      <Hsp_hit-from>2859</Hsp_hit-from>
+      <Hsp_hit-to>2895</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>37</Hsp_align-len>
+      <Hsp_qseq>TCCATGAAAGCCAACAAATCCGCCTGGTGCTTTCAAC</Hsp_qseq>
+      <Hsp_hseq>TCCACAAAAGCAAACAAATACTCCTGGTGCTTTGAAC</Hsp_hseq>
+      <Hsp_midline>||||  ||||| ||||||| | ||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2867914357|ref|XM_070208670.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_070208670</Hit_accession>
+  <Hit_len>7162</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5207</Hsp_hit-from>
+      <Hsp_hit-to>5181</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2867914363|ref|XM_070208673.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_070208673</Hit_accession>
+  <Hit_len>7440</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2867914371|ref|XM_070208677.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X12, mRNA</Hit_def>
+  <Hit_accession>XM_070208677</Hit_accession>
+  <Hit_len>7364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|3034497136|emb|OZ290780.1|</Hit_id>
+  <Hit_def>Alces alces genome assembly, chromosome: 24</Hit_def>
+  <Hit_accession>OZ290780</Hit_accession>
+  <Hit_len>59081000</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>34</Hsp_query-to>
+      <Hsp_hit-from>21645263</Hsp_hit-from>
+      <Hsp_hit-to>21645232</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CATGAAAGCCAACAAATCCGCCTGGTGCTTTC</Hsp_qseq>
+      <Hsp_hseq>CATGAAGACCAACAAATCCGACTTGTGCTTTC</Hsp_hseq>
+      <Hsp_midline>||||||  |||||||||||| || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1884496373|gb|CP059566.1|</Hit_id>
+  <Hit_def>Neisseria sicca strain DSM 17713 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP059566</Hit_accession>
+  <Hit_len>2864419</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>42</Hsp_query-to>
+      <Hsp_hit-from>2517325</Hsp_hit-from>
+      <Hsp_hit-to>2517351</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>AAATCCGCCTGGTGCTTTCAACGGCAA</Hsp_qseq>
+      <Hsp_hseq>AAATCCGCCTGCTGCTTTCAACAGCAA</Hsp_hseq>
+      <Hsp_midline>||||||||||| |||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2867914365|ref|XM_070208674.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X9, mRNA</Hit_def>
+  <Hit_accession>XM_070208674</Hit_accession>
+  <Hit_len>7415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5460</Hsp_hit-from>
+      <Hsp_hit-to>5434</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|2867914355|ref|XM_070208669.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_070208669</Hit_accession>
+  <Hit_len>7449</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2867914385|ref|XM_070208684.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X19, mRNA</Hit_def>
+  <Hit_accession>XM_070208684</Hit_accession>
+  <Hit_len>7348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|3034462090|emb|OZ289216.1|</Hit_id>
+  <Hit_def>Rangifer tarandus genome assembly, chromosome: 23</Hit_def>
+  <Hit_accession>OZ289216</Hit_accession>
+  <Hit_len>60399326</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>34</Hsp_query-to>
+      <Hsp_hit-from>38785354</Hsp_hit-from>
+      <Hsp_hit-to>38785385</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>CATGAAAGCCAACAAATCCGCCTGGTGCTTTC</Hsp_qseq>
+      <Hsp_hseq>CATGAAGACCAACAAATCCGACTTGTGCTTTC</Hsp_hseq>
+      <Hsp_midline>||||||  |||||||||||| || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2867914381|ref|XM_070208682.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X17, mRNA</Hit_def>
+  <Hit_accession>XM_070208682</Hit_accession>
+  <Hit_len>7007</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5476</Hsp_hit-from>
+      <Hsp_hit-to>5450</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2867914377|ref|XM_070208680.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X15, mRNA</Hit_def>
+  <Hit_accession>XM_070208680</Hit_accession>
+  <Hit_len>7334</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|2867914383|ref|XM_070208683.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X18, mRNA</Hit_def>
+  <Hit_accession>XM_070208683</Hit_accession>
+  <Hit_len>7285</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5460</Hsp_hit-from>
+      <Hsp_hit-to>5434</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2867914367|ref|XM_070208675.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X10, mRNA</Hit_def>
+  <Hit_accession>XM_070208675</Hit_accession>
+  <Hit_len>7394</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|3046874148|gb|CP197465.1|</Hit_id>
+  <Hit_def>Mesorhizobium sp. ASY16-5R chromosome, complete genome</Hit_def>
+  <Hit_accession>CP197465</Hit_accession>
+  <Hit_len>7090189</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>394155</Hsp_hit-from>
+      <Hsp_hit-to>394181</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGCGCTTTCAACGGCAACTGC</Hsp_hseq>
+      <Hsp_midline>|||||||| ||||||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|2867914373|ref|XM_070208678.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X13, mRNA</Hit_def>
+  <Hit_accession>XM_070208678</Hit_accession>
+  <Hit_len>7355</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5475</Hsp_hit-from>
+      <Hsp_hit-to>5449</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2867914353|ref|XM_070208668.1|</Hit_id>
+  <Hit_def>PREDICTED: Drosophila virilis arginine-glutamic acid dipeptide repeats grunge (Gug), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_070208668</Hit_accession>
+  <Hit_len>7171</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>5.57349</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>5216</Hsp_hit-from>
+      <Hsp_hit-to>5190</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CCGCCTGGTGCTTTCAACGGCAACGGC</Hsp_qseq>
+      <Hsp_hseq>CCGCCTGGTGCAATCAACGGCAACGGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||  ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>120817376</Statistics_db-num>
+      <Statistics_db-len>1651768076</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

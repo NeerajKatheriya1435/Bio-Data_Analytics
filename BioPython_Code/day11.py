@@ -13,9 +13,8 @@ import io
 from Bio.Blast import NCBIXML
 
 with open("h1.xml") as file:
-
     blast_records = NCBIXML.parse(file)
-    # print(blast_records.__next__())
+
     for record in blast_records:
         for alignment in record.alignments:
             for hsp in alignment.hsps:
@@ -27,4 +26,4 @@ with open("h1.xml") as file:
                 print(hsp.query)
                 print(hsp.match)
                 print(hsp.sbjct)
-                print("-" * 40)
+                print("-" * 40)        

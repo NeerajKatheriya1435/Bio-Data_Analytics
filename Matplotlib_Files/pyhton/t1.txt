@@ -1,0 +1,36 @@
+Accounting Basics (Foundation)
+Types of Accounting
+Accounting Terms
+(Assets, Liabilities, Capital, Revenue, Expense)
+Golden Rules of Accounting
+Debit & Credit rules
+Types of Accounts
+Personal, Real, Nominal
+Basic Journal Entries
+Introduction to Tally
+Versions of Tally (ERP 9, Tally Prime)
+Features of Tally
+Uses of Tally in Business
+Installation & Interface Overview
+Gateway of Tally
+Company Creation & Configuration
+Create Company in Tally
+Company Features (F11)
+Accounting Features
+Inventory Features (Basic)
+Alter / Delete / Select Company
+What is Ledger?, Create Ledger
+Common Ledgers:
+Capital, Cash, Bank, Purchase
+Sales, Expenses, Income
+Groups,Primary Groups, Sub Groups
+What is Voucher?
+Types of Vouchers:
+Contra, Payment, Receipt, Journal
+Sales, Purchase
+Voucher Entry Rules
+Reports & Final Accounts
+Trial Balance, Profit & Loss Account
+Balance Sheet,Day Book
+Data Security & Utilities
+Password Protection

@@ -1,0 +1,21 @@
+CityID,StateID,State,City,Population
+1,3,Delhi,New Delhi,8571051
+2,9,Maharashtra,Mumbai,3191630
+3,9,Maharashtra,Pune,9590575
+4,6,Karnataka,Bengaluru,4211045
+5,6,Karnataka,Mysuru,2927616
+6,12,Tamil Nadu,Chennai,9689966
+7,12,Tamil Nadu,Coimbatore,7926592
+8,14,Uttar Pradesh,Lucknow,8309303
+9,14,Uttar Pradesh,Noida,11868403
+10,15,West Bengal,Kolkata,5058648
+11,13,Telangana,Hyderabad,10169445
+12,4,Gujarat,Ahmedabad,4394078
+13,4,Gujarat,Surat,7069537
+14,11,Rajasthan,Jaipur,7420719
+15,7,Kerala,Kochi,3029830
+16,8,Madhya Pradesh,Indore,2728769
+17,10,Punjab,Ludhiana,3212143
+18,5,Haryana,Gurugram,8269418
+19,2,Bihar,Patna,7593610
+20,1,Assam,Guwahati,11336552

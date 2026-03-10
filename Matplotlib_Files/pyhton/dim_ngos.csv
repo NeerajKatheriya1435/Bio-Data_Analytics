@@ -1,0 +1,81 @@
+NGOID,NGOName,CityID,Capacity,HasVetOnsite,HasAmbulance,City,State
+1,SDM-001,15,186,True,False,Kochi,Kerala
+2,SDM-002,5,155,True,True,Mysuru,Karnataka
+3,SDM-003,19,313,False,False,Patna,Bihar
+4,SDM-004,19,52,False,False,Patna,Bihar
+5,SDM-005,15,279,True,True,Kochi,Kerala
+6,SDM-006,14,316,True,True,Jaipur,Rajasthan
+7,SDM-007,3,35,True,True,Pune,Maharashtra
+8,SDM-008,2,104,False,False,Mumbai,Maharashtra
+9,SDM-009,6,207,True,True,Chennai,Tamil Nadu
+10,SDM-010,9,166,True,True,Noida,Uttar Pradesh
+11,SDM-011,2,476,True,True,Mumbai,Maharashtra
+12,SDM-012,18,231,True,True,Gurugram,Haryana
+13,SDM-013,10,330,False,True,Kolkata,West Bengal
+14,SDM-014,14,92,True,False,Jaipur,Rajasthan
+15,SDM-015,5,407,True,True,Mysuru,Karnataka
+16,SDM-016,7,124,True,True,Coimbatore,Tamil Nadu
+17,SDM-017,3,388,True,False,Pune,Maharashtra
+18,SDM-018,15,247,True,True,Kochi,Kerala
+19,SDM-019,16,215,True,True,Indore,Madhya Pradesh
+20,SDM-020,5,248,True,True,Mysuru,Karnataka
+21,SDM-021,15,277,True,False,Kochi,Kerala
+22,SDM-022,2,142,True,True,Mumbai,Maharashtra
+23,SDM-023,8,78,False,False,Lucknow,Uttar Pradesh
+24,SDM-024,4,162,False,False,Bengaluru,Karnataka
+25,SDM-025,15,494,True,True,Kochi,Kerala
+26,SDM-026,7,153,False,True,Coimbatore,Tamil Nadu
+27,SDM-027,10,340,True,True,Kolkata,West Bengal
+28,SDM-028,10,145,False,True,Kolkata,West Bengal
+29,SDM-029,10,422,False,False,Kolkata,West Bengal
+30,SDM-030,6,251,True,True,Chennai,Tamil Nadu
+31,SDM-031,12,292,True,False,Ahmedabad,Gujarat
+32,SDM-032,17,121,True,True,Ludhiana,Punjab
+33,SDM-033,10,311,True,True,Kolkata,West Bengal
+34,SDM-034,4,257,True,True,Bengaluru,Karnataka
+35,SDM-035,1,362,True,False,New Delhi,Delhi
+36,SDM-036,3,138,True,True,Pune,Maharashtra
+37,SDM-037,2,312,False,True,Mumbai,Maharashtra
+38,SDM-038,2,422,True,True,Mumbai,Maharashtra
+39,SDM-039,3,244,True,False,Pune,Maharashtra
+40,SDM-040,12,106,True,False,Ahmedabad,Gujarat
+41,SDM-041,17,54,False,True,Ludhiana,Punjab
+42,SDM-042,18,433,False,True,Gurugram,Haryana
+43,SDM-043,14,262,False,True,Jaipur,Rajasthan
+44,SDM-044,13,105,True,True,Surat,Gujarat
+45,SDM-045,7,161,True,True,Coimbatore,Tamil Nadu
+46,SDM-046,19,380,True,True,Patna,Bihar
+47,SDM-047,13,197,False,True,Surat,Gujarat
+48,SDM-048,15,313,True,False,Kochi,Kerala
+49,SDM-049,15,409,False,False,Kochi,Kerala
+50,SDM-050,18,120,False,True,Gurugram,Haryana
+51,SDM-051,15,432,True,True,Kochi,Kerala
+52,SDM-052,19,384,True,True,Patna,Bihar
+53,SDM-053,11,180,False,False,Hyderabad,Telangana
+54,SDM-054,11,139,True,True,Hyderabad,Telangana
+55,SDM-055,6,185,True,False,Chennai,Tamil Nadu
+56,SDM-056,19,61,True,False,Patna,Bihar
+57,SDM-057,12,225,False,False,Ahmedabad,Gujarat
+58,SDM-058,10,316,True,False,Kolkata,West Bengal
+59,SDM-059,7,390,True,True,Coimbatore,Tamil Nadu
+60,SDM-060,6,277,False,True,Chennai,Tamil Nadu
+61,SDM-061,13,71,False,True,Surat,Gujarat
+62,SDM-062,10,324,False,True,Kolkata,West Bengal
+63,SDM-063,12,67,True,False,Ahmedabad,Gujarat
+64,SDM-064,14,103,True,True,Jaipur,Rajasthan
+65,SDM-065,18,481,True,False,Gurugram,Haryana
+66,SDM-066,7,139,True,False,Coimbatore,Tamil Nadu
+67,SDM-067,14,296,True,True,Jaipur,Rajasthan
+68,SDM-068,19,348,True,True,Patna,Bihar
+69,SDM-069,10,414,True,False,Kolkata,West Bengal
+70,SDM-070,6,58,False,False,Chennai,Tamil Nadu
+71,SDM-071,6,423,False,False,Chennai,Tamil Nadu
+72,SDM-072,7,440,False,False,Coimbatore,Tamil Nadu
+73,SDM-073,13,352,False,False,Surat,Gujarat
+74,SDM-074,6,225,False,False,Chennai,Tamil Nadu
+75,SDM-075,17,148,True,False,Ludhiana,Punjab
+76,SDM-076,8,316,True,True,Lucknow,Uttar Pradesh
+77,SDM-077,2,342,False,True,Mumbai,Maharashtra
+78,SDM-078,1,170,False,False,New Delhi,Delhi
+79,SDM-079,1,347,False,True,New Delhi,Delhi
+80,SDM-080,13,105,False,False,Surat,Gujarat

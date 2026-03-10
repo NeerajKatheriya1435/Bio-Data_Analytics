@@ -1,0 +1,61 @@
+State,City,Year,ShelterIntake,Adoptions,AdoptionRate
+Assam,Guwahati,2025,255,253,0.9921568627450981
+Assam,Guwahati,2026,268,263,0.9813432835820896
+Assam,Guwahati,2027,275,271,0.9854545454545455
+Bihar,Patna,2025,115,112,0.9739130434782609
+Bihar,Patna,2026,110,109,0.990909090909091
+Bihar,Patna,2027,131,128,0.9770992366412213
+Delhi,New Delhi,2025,153,153,1.0
+Delhi,New Delhi,2026,160,160,1.0
+Delhi,New Delhi,2027,160,157,0.98125
+Gujarat,Ahmedabad,2025,6,6,1.0
+Gujarat,Ahmedabad,2026,13,13,1.0
+Gujarat,Ahmedabad,2027,8,8,1.0
+Gujarat,Surat,2025,75,75,1.0
+Gujarat,Surat,2026,82,82,1.0
+Gujarat,Surat,2027,96,96,1.0
+Haryana,Gurugram,2025,166,164,0.9879518072289156
+Haryana,Gurugram,2026,145,144,0.993103448275862
+Haryana,Gurugram,2027,142,139,0.9788732394366197
+Karnataka,Bengaluru,2025,7,7,1.0
+Karnataka,Bengaluru,2026,12,12,1.0
+Karnataka,Bengaluru,2027,9,9,1.0
+Karnataka,Mysuru,2025,3,3,1.0
+Karnataka,Mysuru,2026,1,1,1.0
+Karnataka,Mysuru,2027,1,1,1.0
+Kerala,Kochi,2025,3,3,1.0
+Kerala,Kochi,2026,2,2,1.0
+Kerala,Kochi,2027,3,3,1.0
+Madhya Pradesh,Indore,2025,3,3,1.0
+Madhya Pradesh,Indore,2026,3,3,1.0
+Madhya Pradesh,Indore,2027,3,3,1.0
+Maharashtra,Mumbai,2025,2,2,1.0
+Maharashtra,Mumbai,2026,4,4,1.0
+Maharashtra,Mumbai,2027,3,3,1.0
+Maharashtra,Pune,2025,203,200,0.9852216748768473
+Maharashtra,Pune,2026,174,172,0.9885057471264368
+Maharashtra,Pune,2027,194,193,0.9948453608247423
+Punjab,Ludhiana,2025,1,1,1.0
+Punjab,Ludhiana,2026,3,3,1.0
+Punjab,Ludhiana,2027,4,4,1.0
+Rajasthan,Jaipur,2025,115,113,0.9826086956521739
+Rajasthan,Jaipur,2026,107,107,1.0
+Rajasthan,Jaipur,2027,130,128,0.9846153846153847
+Tamil Nadu,Chennai,2025,207,203,0.9806763285024155
+Tamil Nadu,Chennai,2026,206,206,1.0
+Tamil Nadu,Chennai,2027,204,201,0.9852941176470589
+Tamil Nadu,Coimbatore,2025,123,121,0.983739837398374
+Tamil Nadu,Coimbatore,2026,133,131,0.9849624060150376
+Tamil Nadu,Coimbatore,2027,127,126,0.9921259842519685
+Telangana,Hyderabad,2025,243,243,1.0
+Telangana,Hyderabad,2026,242,242,1.0
+Telangana,Hyderabad,2027,248,246,0.9919354838709677
+Uttar Pradesh,Lucknow,2025,145,144,0.993103448275862
+Uttar Pradesh,Lucknow,2026,174,172,0.9885057471264368
+Uttar Pradesh,Lucknow,2027,169,169,1.0
+Uttar Pradesh,Noida,2025,286,283,0.9895104895104895
+Uttar Pradesh,Noida,2026,293,288,0.9829351535836177
+Uttar Pradesh,Noida,2027,298,296,0.9932885906040269
+West Bengal,Kolkata,2025,13,13,1.0
+West Bengal,Kolkata,2026,12,12,1.0
+West Bengal,Kolkata,2027,25,24,0.96

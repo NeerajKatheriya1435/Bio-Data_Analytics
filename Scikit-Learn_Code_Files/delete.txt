@@ -1,0 +1,15 @@
+Introduction to MS Word, Interface, Ribbon & Tabs
+Home Tab – Clipboard (Cut, Copy, Paste, Format Painter)
+Home Tab – Font group (Bold, Italic, Underline, Colors, Highlighting)
+Home Tab – Paragraph group (Alignment, Bullets, Numbering, Borders & Shading)
+Styles – Applying and Modifying
+Editing Tools – Find, Replace, Select
+Insert Tab – Tables (create, design, layout)
+Insert Tab – Pictures, Shapes, Icons
+Insert Tab – SmartArt, Text Box, WordArt, Signature
+Insert Tab – Header & Footer, Page Number, Date & Time, Symbols, Objects
+Page Layout Tab – Margins, Orientation, Page Size, Columns, Breaks
+References Tab – Table of Contents, Citations, Bibliography, Footnotes
+Mailings Tab – Mail Merge (Letters, Labels, Envelopes)
+Review Tab – Spelling, Thesaurus, Word Count, Comments, Track Changes
+View Tab & Finalizing – Views, Zoom, Save, Export, Print, Protect, Close

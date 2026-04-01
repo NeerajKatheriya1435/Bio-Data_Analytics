@@ -1,3 +1,15 @@
 line 1 Abhishek
 line 2 Amit
 line 3 Suraj
+
+
+Q1. Mohan Purchased furniture for cash ₹12,000
+Q2. Mohan Paid salary ₹6,000
+Q3. Mohan Received commission ₹2,500
+Q4. Mohan Purchased goods from Raj Traders on credit ₹9,000
+Q5. Mohan Paid cash to Raj Traders ₹9,000
+Q6. Moahn Paid rent ₹4,000 in cash
+Q7. Moahn Received cash from Mohan ₹7,000
+Q8. Moahn Purchased computer on credit from Star Computers ₹25,000
+Q9. Moahn Paid electricity bill ₹2,200
+Q10. Moahn Received interest ₹1,500 in bank

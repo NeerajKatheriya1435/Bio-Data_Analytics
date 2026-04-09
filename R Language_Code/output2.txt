@@ -1,0 +1,21 @@
+"Id" "OrderDate" "Region" "Manager" "SalesMan" "Item" "Units"
+101 43106 "East" "Martha" "Alexander" "Television" 95
+102 43123 "Central" "Hermann" "Shelli" "Home Theater" 50
+103 43140 "Central" "Hermann" "Luis" "Television" 36
+104 43157 "Central" "Timothy" "David" "Cell Phone" 27
+105 43174 "West" "Timothy" "Stephen" "Television" 56
+106 43191 "East" "Martha" "Alexander" "Home Theater" 60
+107 43208 "Central" "Martha" "Steven" "Television" 75
+108 43225 "Central" "Hermann" "Luis" "Television" 90
+109 43242 "West" "Douglas" "Michael" "Television" 32
+110 43259 "East" "Martha" "Alexander" "Home Theater" 60
+111 43276 "Central" "Hermann" "Sigal" "Television" 90
+112 43293 "East" "Martha" "Diana" "Home Theater" 29
+113 43310 "East" "Douglas" "Karen" "Home Theater" 81
+114 43327 "East" "Martha" "Alexander" "Television" 35
+115 43344 "Central" "Douglas" "John" "Desk" 2
+116 43361 "East" "Martha" "Alexander" "Video Games" 16
+117 43378 "Central" "Hermann" "Sigal" "Home Theater" 28
+118 43395 "East" "Martha" "Alexander" "Cell Phone" 64
+119 43412 "East" "Douglas" "Karen" "Cell Phone" 15
+120 43429 "Central" "Hermann" "Shelli" "Video Games" 96

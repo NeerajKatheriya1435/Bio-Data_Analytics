@@ -1,0 +1,9 @@
+"sample_id","gene","condition","expression"
+1,"BRCA1","Control",5
+2,"BRCA1","Treated",12
+3,"TP53","Control",8
+4,"TP53","Treated",15
+5,"EGFR","Control",10
+6,"EGFR","Treated",18
+7,"BRCA1","Treated",34
+8,"TP53","Treated",8

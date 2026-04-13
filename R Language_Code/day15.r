@@ -31,4 +31,4 @@ data <- data.frame(
 # # Access data within that environment
 # print(my_env$variable_name )
 # getwd()
-print(summary(data))
+# print(summary(data))

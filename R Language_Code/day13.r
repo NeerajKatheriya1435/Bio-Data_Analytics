@@ -29,17 +29,91 @@
 # 
 # print(counts)
 
+# library(edgeR)
+# 
+# library(DESeq2)
+# 
+# counts <- matrix(c(
+#   10,20,30, 12,22,32,
+#   14,16,35, 18,58,38
+# ), nrow=3)
+# 
+# 
+# # colnames(counts) <- c("S1","S2","S3","S4")
+# # rownames(counts) <- c("Gene1","Gene2","Gene3")
+# 
+# # Add column names (samples)
+# colnames(counts) <- c("S1","S2","S3","S4")
+# 
+# # Add row names (genes) - optional but good practice
+# rownames(counts) <- c("Gene1","Gene2","Gene3")
+# 
+# coldata <- data.frame(
+#   condition = factor(c("Control","Control","Treated","Treated"))
+# )
+# 
+# # VERY IMPORTANT
+# rownames(coldata) <- colnames(counts)
+# 
+# dds <- DESeqDataSetFromMatrix(countData = counts,
+#                               colData = coldata,
+#                               design = ~ condition)
+# dds <- DESeq(dds)
+# 
+# res <- results(dds)
+# print(res)
+
+
+
+# Example with replicates (IMPORTANT)
+# counts <- matrix(c(
+#   10,20,30, 12,22,32,   # Control (2 samples)
+#   15,25,35, 18,28,38    # Treated (2 samples)
+# ), nrow=3)
+# 
+# print(counts)
+# group <- factor(c("Control","Control","Treated","Treated"))
+# 
+# # print(group)
+# dge <- DGEList(counts=counts, group=group)
+# 
+# # print(dge)
+# 
+# dge <- calcNormFactors(dge)
+# # print(dge)
+# design <- model.matrix(~group)
+# # print(design)
+# dge <- estimateDisp(dge, design)
+# print(dge)
+# fit <- glmFit(dge, design)
+# 
+# lrt <- glmLRT(fit)
+# 
+# p<-topTags(lrt)
+
+# print(p)
+
 library(edgeR)
 
-counts <- matrix(c(10,20,30,15,25,35), nrow=3)
-group <- factor(c("Control","Treated"))
+# Example with replicates (IMPORTANT)
+counts <- matrix(c(
+  10,20,30, 12,22,32,   # Control (2 samples)
+  15,25,35, 18,28,38    # Treated (2 samples)
+), nrow=3)
+
+group <- factor(c("Control","Control","Treated","Treated"))
 
 dge <- DGEList(counts=counts, group=group)
 
 dge <- calcNormFactors(dge)
 
-dge <- estimateDisp(dge)
+design <- model.matrix(~group)
 
-et <- exactTest(dge)
+dge <- estimateDisp(dge, design)
 
-topTags(et)
+fit <- glmFit(dge, design)
+
+lrt <- glmLRT(fit)
+
+p<-topTags(lrt)
+print(p)
